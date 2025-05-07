@@ -8,5 +8,5 @@ Adding new line to ReadMe.md file by DustinHCA.
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
-This fun open source game was cloned from: https://github.com/bhargavhca/javascript-tetris
+This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
 
